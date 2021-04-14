@@ -1,4 +1,6 @@
 # learning-sass
 beginning of sass css programming
-*Started learningi Sass*
+
+*Started learning Sass*
+
 *created a footer*
