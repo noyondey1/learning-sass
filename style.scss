@@ -1,0 +1,22 @@
+.wrap{
+    background: palegreen;
+    width: 100%;
+    height: 200px;
+    &:hover{
+        background: paleturquoise;
+    }
+    button{
+        border: none;
+        padding: 6px 10px;
+        background: tomato;
+        color: white;
+        border-radius: 15px;
+        cursor: pointer;
+        transition: transform 1s linear;
+        &:hover{
+            background: turquoise;
+            transform: translateX(50px);
+        }
+    }
+
+}
